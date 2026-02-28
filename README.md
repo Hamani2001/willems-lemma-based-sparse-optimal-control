@@ -1,7 +1,7 @@
 # データ駆動型スパース最適制御シミュレーション
 
 本リポジトリは，データ駆動型スパース最適制御の検証をするためのMATLABコードである
-https://github.com/KeiHamanishi/Sparse-Optimal-Control-by-using-Willems-Fundamental-Lemma
+
 ---
 
 
@@ -158,6 +158,7 @@ data/hoge/result.mat
 
 
 Copyright (c) 2026 Hamanishi
+
 
 
 
