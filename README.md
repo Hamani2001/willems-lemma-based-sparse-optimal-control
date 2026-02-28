@@ -5,13 +5,6 @@
 ---
 
 
-## 今後の修正案件
-
-・modelのコンフィグ設定の説明書
-・図表用のconfig設定を追加
-・initialPara_DeePCを含めたcfg
-
----
 
 ## ディレクトリ構成
 ~~~
@@ -158,6 +151,7 @@ data/hoge/result.mat
 
 
 Copyright (c) 2026 Hamanishi
+
 
 
 
